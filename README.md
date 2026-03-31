@@ -40,7 +40,7 @@ portfolio/
 To run this project locally:
 
 # Clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/M-harshini/portfolio.git
 
 # Open folder
 cd portfolio
