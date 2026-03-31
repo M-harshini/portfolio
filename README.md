@@ -1,5 +1,7 @@
 🌐 Personal Portfolio
 👩‍💻 About Me
+<img width="1846" height="927" alt="image" src="https://github.com/user-attachments/assets/6eaef8a9-cb26-45c6-ac68-61bf46f45b21" />
+
 
 Hi, I'm Harshini 👋
 A passionate IT student & Web Developer who loves building creative and user-friendly web applications.
